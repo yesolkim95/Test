@@ -1,4 +1,4 @@
-package Scanner;
+
 import java.util.Scanner; 	// Scanner 클래스 임포
 
 public class Ex02_Scanner1
