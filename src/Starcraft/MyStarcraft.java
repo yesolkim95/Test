@@ -1,3 +1,4 @@
+package Starcraft;
 abstract class Unit3 	//부모 클래스
 {
 	abstract void doMove();	//1.추상 클래스
